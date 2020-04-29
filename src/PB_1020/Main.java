@@ -3,7 +3,6 @@ package PB_1020;
 
 import java.util.Scanner;
 
-
 public class Main {
     public static void main(String[] args) {
         int days , months, years;
